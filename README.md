@@ -1,2 +1,2 @@
-# Jisoo-Kim-Portfolio
+# Jisoo Kim Portfolio
 Temporary data science portfolio
